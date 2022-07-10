@@ -1,6 +1,6 @@
 package Day_4;
 
-public class Uc3_ChackForOption {
+public class UC3_ChackForOption {
 
 	 public static  int diceRoll() {
 			int a = (int) ((Math.floor(Math.random()*10)%6)+1);
